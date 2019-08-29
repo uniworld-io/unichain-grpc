@@ -32,11 +32,11 @@
     "dist",
     "src"
   ],
-  "repository": "unichain.world/unichain-grpc",
+  "repository": "uniworld-io/unichain-grpc",
   "author": "Henry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bonustrack/unichain-grpc/issues"
+    "url": "https://github.com/uniworld-io/unichain-grpc/issues"
   },
-  "homepage": "https://github.com/bonustrack/unichain-grpc"
+  "homepage": "https://github.com/uniworld-io/unichain-grpc"
 }
