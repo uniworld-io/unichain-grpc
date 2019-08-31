@@ -1,6 +1,6 @@
 {
   "name": "unichain-grpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight JavaScript library for Unichain",
   "main": "dist/unichain.cjs.js",
   "module": "dist/unichain.esm.js",
@@ -9,7 +9,8 @@
     "@grpc/proto-loader": "^0.5.1",
     "google-protobuf": "^3.8.0",
     "grpc": "^1.21.1",
-    "mongodb": "^3.2.7"
+    "mongodb": "^3.2.7",
+    "bignumber.js": "^9.0.0"
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^13.1.0",
@@ -19,8 +20,7 @@
     "rollup-plugin-filesize": "^5.0.1",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-uglify": "^3.0.0",
-    "uglify-es": "^3.3.9",
-    "bignumber.js": "^9.0.0"
+    "uglify-es": "^3.3.9"
   },
   "scripts": {
     "build": "rollup -c",
