@@ -1,10 +1,6 @@
 {
   "name": "unichain-grpc",
-<<<<<<< HEAD
   "version": "0.0.2",
-=======
-  "version": "0.0.1",
->>>>>>> bd823f9... add source code
   "description": "A lightweight JavaScript library for Unichain",
   "main": "dist/unichain.cjs.js",
   "module": "dist/unichain.esm.js",
@@ -13,12 +9,8 @@
     "@grpc/proto-loader": "^0.5.1",
     "google-protobuf": "^3.8.0",
     "grpc": "^1.21.1",
-<<<<<<< HEAD
     "mongodb": "^3.2.7",
     "bignumber.js": "^9.0.0"
-=======
-    "mongodb": "^3.2.7"
->>>>>>> bd823f9... add source code
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^13.1.0",
@@ -28,12 +20,7 @@
     "rollup-plugin-filesize": "^5.0.1",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-uglify": "^3.0.0",
-<<<<<<< HEAD
     "uglify-es": "^3.3.9"
-=======
-    "uglify-es": "^3.3.9",
-    "bignumber.js": "^9.0.0"
->>>>>>> bd823f9... add source code
   },
   "scripts": {
     "build": "rollup -c",
@@ -45,7 +32,6 @@
     "dist",
     "src"
   ],
-<<<<<<< HEAD
   "repository": "uniworld-io/unichain-grpc",
   "author": "Henry",
   "license": "MIT",
@@ -53,13 +39,4 @@
     "url": "https://github.com/uniworld-io/unichain-grpc/issues"
   },
   "homepage": "https://github.com/uniworld-io/unichain-grpc"
-=======
-  "repository": "unichain.world/unichain-grpc",
-  "author": "Henry",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bonustrack/unichain-grpc/issues"
-  },
-  "homepage": "https://github.com/bonustrack/unichain-grpc"
->>>>>>> bd823f9... add source code
 }
