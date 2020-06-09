@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 # Unichain gRPC <Deprecated>
-=======
-# Unichain gRPC
->>>>>>> bd823f9... add source code
 
 A lightweight JavaScript library for Unichain
 
