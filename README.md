@@ -1,5 +1,5 @@
 
-# Unichain gRPC
+# Unichain gRPC <Deprecated>
 
 A lightweight JavaScript library for Unichain
 
